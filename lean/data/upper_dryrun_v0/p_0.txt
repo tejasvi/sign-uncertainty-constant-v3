@@ -1,0 +1,15 @@
+0 true 29937
+1 true 24823
+2 true 89341
+3 true 35740
+4 true 88893
+5 true 57746
+6 true 49707
+7 true 98722
+8 true 32024
+9 true 80327
+10 true 54403
+11 true 75235
+12 true 51676
+13 true 25559
+Terminated
